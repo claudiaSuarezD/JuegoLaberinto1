@@ -26,4 +26,16 @@ Sobrevive el mayor tiempo posible evitando el contacto con los enemigos llegando
 ## 🛠 Requisitos
 1. **Python 3.13 o superior**  
 2. Instalar la librería PyGame.
-3. Entorno
+3. Entorno de desarrollo PyCharme o VisualStudio.
+
+## 🔮 Futuras mejoras
+- Añadir niveles de dificultad.
+- Agregar número de vidas
+- Guardar récord de puntajes.
+- Nuevos tipos de enemigos.
+- Los jugadores sea diferentes tipos de personajes y no una figura
+
+<p>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="150" alt="Python Logo"> </br>
+  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" width="120" alt="Pygame Logo">
+</p>
